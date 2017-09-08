@@ -1,0 +1,21 @@
+Objects
+
+Objects are a type of variable that can contain many different values and/or functions.  
+
+
+Properties
+
+Properties are the name of the values that can be assigned to an object.  Properties are 
+usually named using strings, followed by colon, and assigned a value.  The value of a 
+property can be any type of variable like strings, numbers, boolean, and arrays. 
+
+
+Methods
+
+Methods are functions or actions that can be performed in an object.  These are stored in a 
+name and can contain codes and functions that execute when the method for in loop
+
+
+Dot notation vs bracket notation
+
+Dot and bracket notations are generally used to call in a property or method of an object.  The difference between dot and bracket notations is how they are used when calling the property of an object.  Dot notations are used by typing the name of the object, followed by a dot, followed by the name of the property.  Bracket notations are used by typing the name of the object, followed by open bracket, followed by open quote, followed by the property name, followed by close quote, followed by close bracket.  As you can see, it is easier and cleaner to use the dot notation.  Bracket notation is also used to list the values in an array so it can easily be confused with a property of an object. 
